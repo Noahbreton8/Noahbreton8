@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Seeking 2025 Internships | Artifical Inteligence and Machine Learning Computer Science @ Carleton
 <!--
 **Noahbreton8/Noahbreton8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
