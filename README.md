@@ -1,5 +1,6 @@
 ## Noah Breton
 3rd year Artifical Inteligence and Machine Learning Computer Science @ Carleton
+
 Seeking 2025 Internships
 <!--
 **Noahbreton8/Noahbreton8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
